@@ -1,4 +1,4 @@
-# CourseRepo
+# Project
 <br>
 Author Sarah Khan
 <br>
